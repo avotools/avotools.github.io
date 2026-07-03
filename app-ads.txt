@@ -1,5 +1,3 @@
-# Updated at 2026/07/03 15:37:13
-
 # Facebook
 facebook.com,2403290579831579,DIRECT,c3e20eee3f780d68
 
