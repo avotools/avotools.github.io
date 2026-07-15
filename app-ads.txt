@@ -1,10 +1,8 @@
-# Updated at 2026/07/08 11:42:11
-
 # Facebook
 facebook.com,2403290579831579,DIRECT,c3e20eee3f780d68
 
 # Admob
-google.com,pub-2755695463171643,DIRECT,f08c47fec0942fa0
+google.com,pub-6289051987561348,DIRECT,f08c47fec0942fa0
 
 # Liftoff
 vungle.com,5dc9534f674ec70017d0306a,DIRECT,c107d686becd2d77
